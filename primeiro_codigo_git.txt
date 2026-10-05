@@ -1,2 +1,8 @@
 Olá meu nome é jhonatan
-Olá eu sou uma nova linha 
+Olá eu sou uma nova linha
+
+git init
+git status 
+git add .
+git push
+.
